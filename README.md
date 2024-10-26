@@ -1,4 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu&format=true" />
+
+<!--
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex!;" />
+</h1>
+
+-->
 
 ## 💫 About Me:
 👋 Hi, I’m Alex Tanasescu (@TheAlexTanasescu)<br>👀 I’m interested in AI, Mixed Reality and other Emerging Technologies<br>🌱 Continuously building and experimenting with new ideas<br>💞️ I’m looking to collaborate on anything I find interesting<br>📫 How to reach me atanasescu39@gmail.com
