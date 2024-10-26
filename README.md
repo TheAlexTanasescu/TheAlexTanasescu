@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu" />
+
 ## 💫 About Me:
 👋 Hi, I’m Alex Tanasescu (@TheAlexTanasescu)<br>👀 I’m interested in AI, Mixed Reality and other Emerging Technologies<br>🌱 Continuously building and experimenting with new ideas<br>💞️ I’m looking to collaborate on anything I find interesting<br>📫 How to reach me atanasescu39@gmail.com
 
