@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu&format=true" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TheAlexTanasescu.TheAlexTanasescu&format=true" />
 
 <!--
 <h1 align="center">
